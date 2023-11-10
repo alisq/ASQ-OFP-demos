@@ -37,7 +37,9 @@ function mousePressed() {
 
     let imageBase64String = ourCanvas.elt.toDataURL();
     console.log(imageBase64String)
-    
+    var image = new Image();
+image.src = imageBase64String
+document.body.appendChild(image);
     
 
 }
