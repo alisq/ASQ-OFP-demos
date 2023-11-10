@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+    
+        <script src="https://cdn.jsdelivr.net/npm/p5@1.8.0/lib/p5.js"></script>
+        <script>
+let ourCanvas;
+
+    function setup() {
+        ourCanvas = createCanvas(400, 400);
+    }
+
+function draw() {
+  if (mouseIsPressed) {
+    fill(0);
+  } else {
+    fill(255);
+  }
+  ellipse(mouseX, mouseY, 80, 80);
+}
+
+function mousePressed() {
+
+    
+
+    let imageBase64String = ourCanvas.elt.toDataURL();
+    console.log(imageBase64String)
+    
+    
+
+}
+
+const id = "74589405";
+const students = ["Olivia","Katheryn", "Michael","Radi"]
+const Olivia  = {
+        "firstname": "Olivia",
+        "lastname": "Pasian",
+        "topics":["web stuff", "interpersonal stuff", "cool stuff"]
+}
+
+// console.log(id)
+// console.log(students[2])
+
+number = Math.floor(Math.random()*Olivia.topics.length)
+
+console.log(Olivia.topics[number])
+
+
+
+
+</script>
+    </body>
+</html>
