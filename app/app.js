@@ -45,7 +45,10 @@ app.get("/users", function(request, response) {
 
 // create a new users entry
 app.post("/new", urlencodedParser, function(request, response) {
-filename = Date.now()+'.png';
+
+    filename = Date.now()+'.png';
+
+
 fs.writeFile(filename, request.body.imageData, {encoding: 'base64'}, function(err) {
     console.log('File created');
 });
@@ -56,12 +59,6 @@ fs.writeFile(filename, request.body.imageData, {encoding: 'base64'}, function(er
   });
 });
 
-// removes existing users and creates new entries with just the default users
-app.get("/reset", function(request, response) {
-  users = defaultUsers.slice();
-  setup();
-  response.redirect("/");
-});
 
 // Serve the root url: http://expressjs.com/en/starter/basic-routing.html
 app.get("/", function(request, response) {
