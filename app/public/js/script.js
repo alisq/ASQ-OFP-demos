@@ -1,61 +1,38 @@
-let imageUpload = document.getElementById("image");
+// let imageUpload = document.getElementById("image");
+let ourCanvas;
+
+function setup() {
+    ourCanvas = createCanvas(400, 400);
+}
+
+function draw() {
+if (mouseIsPressed) {
+fill(0);
+} else {
+fill(255);
+}
+ellipse(mouseX, mouseY, 80, 80);
+}
+
+function mousePressed() {
 
 
-//don't let people submit unless they have an image going
-imageUpload.onchange = function() {
-  let input = this.files[0];
-  
-  if ((input) && ($("#instructor option:checked" ).val() != "i") && ($("#student" ).val() != "undefined")) {
-    $("#submits").removeAttr('disabled');
-  
-  } else {
-    $("#submits").attr("disabled","disabled")
-  
-  }
-};
+
+let imageBase64String = ourCanvas.elt.toDataURL();
+
+document.getElementById('imageData').value = imageBase64String;
+
+
+var ourImage = new Image();
+ourImage.src = imageBase64String
+
+
+}
 
 
 
 
-      
-
-            $("#submits").click(function(e){
-                e.preventDefault();
-                var data = new FormData();
-
-                $("#loading").addClass("active");
-                
-                data.append('image', document.forms['uploadForm']['image'].files[0]);
-                data.append('student',document.forms['uploadForm']['student'].value)
-                data.append('instructor',document.forms['uploadForm']['instructor'].value)
-
-                
-                
-                $.ajax({
-                    url: '/upload',
-                    method:'POST',
-                    data: data,
-                    contentType: false,
-                    processData: false,
-                    success: function(response) {
-//                        console.log(response)
-                        $('#uploadImage').trigger("reset").fadeOut(200);
-                        
-                        setTimeout(function(){
-                            $(".cover").removeClass("active");
-                            fetchEntries();
-                        }, 2500);
-                        
-                    },
-                    error: function(jqXHR, textStatus, errorMessage) {
-                        alert('Error uploading: ' + errorMessage);
-                    }
-                });
-
-            })
-
-
-fetchEntries();
+//  fetchEntries();
 
 
 

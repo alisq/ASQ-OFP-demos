@@ -1,92 +1,74 @@
-const express = require('express')
-const app = express()
-const multer  = require('multer');
-var Datastore = require('nedb');
-//var app = express();
-//var server = app.listen(3000, listening);
-var db = new Datastore({ filename: 'data.json', autoload: true });
-var path = require('path');
-var sharp = require('sharp');
-const port = 53828
-let filename;
-let origName;
+// init project
+var express = require("express");
+var fs = require("fs");
+var app = express();
+var bodyParser = require("body-parser");
+// Data is stored in the file `database` in the folder `db`.
+// Note that if you leave your app public, this database file will be copied if
+// someone forks your app. So don't use it to store sensitive information.
+var Datastore = require("nedb"),
+  db = new Datastore({ filename: "data.json", autoload: true });
 
+// Using `public` for static files: http://expressjs.com/en/starter/static-files.html
+app.use(express.static("public"));
 
+// Initial set of users to populate the database with
+var defaultUsers = [];
+var users = defaultUsers.slice();
+setup();
 
-// db.insert(doc, function (err, newDoc) {   // Callback is optional
-//   // newDoc is the newly inserted document, including its _id
-//   // newDoc has no key called notToBeSaved since its value was undefined
-// });
-app.use(express.static('public')); //load files from this route
+// Use bodyParser to parse application/x-www-form-urlencoded form data
+var urlencodedParser = bodyParser.urlencoded({ extended: false });
 
-app.get('/json', function(req, res, next) {
+// populate database with default users
+function setup() {
+  var dbUsers = [];
 
-    db.find({}).sort({ filename: -1 }).exec( function (err, docs) {
-        
-        res.json(docs);
+  db.remove({}, { multi: true }, function(err, numRemoved) {
+    for (var i = 0; i < users.length; i++) {
+      // loop through all users
+      dbUsers.push({ name: users[i] });
+    }
+    db.insert(dbUsers, function(err, newDocs) {
+      // add initial users to the database
     });
-   
   });
-
-
-// app.get('/', function(req, res) {
-//     res.sendFile(path.join(__dirname + '/public/index.html'));
-// });
-
-
-
-const storage = multer.diskStorage({
-    destination: (req, file, cb) => {
-        cb(null, 'public/uploads');
-    },
-    filename: (req, file, cb) => {
-        //console.log(file);
-         
-        filename = Date.now() + path.extname(file.originalname);
-        origName = file.originalname;
-        cb(null, filename);
-
-    }
-});
-
-
-
-  
-//console.log(db.find({}))
-
-
-const fileFilter = (req, file, cb) => {
-    if (file.mimetype == 'image/jpeg' || file.mimetype == 'image/png') {
-        cb(null, true);
-    } else {
-        cb(null, false);
-    }
 }
-const upload = multer({ storage: storage, fileFilter: fileFilter });
 
-
-//Upload route
-app.post('/upload', upload.single('image'), (req, res, next) => {
-
-    
-
-    try {
-        sharp(req.file.path).resize(400, null).toFile('public/uploads/thumbnails/' + filename, (err, resizeImage) => {})
-        var doc = { filename: filename, student: req.body.student, instructor:req.body.instructor, originalname:origName};
-        db.insert(doc, function (err, newDoc) {   // Callback is optional
-            sharp(req.file.path).resize(1600, null).toFile('public/uploads/large/' + filename, (err, resizeImage) => {})
-
-      });
-
-        return res.send('success!');
-        
-        
-    } catch (error) {
-        //console.error(error);
-    }
-    
+// Send user data - used by client.js
+app.get("/users", function(request, response) {
+  db.find({ name: { $exists: true } }, function(err, docs) {
+    // finds all users in the database
+    response.send(docs); // sends users back to the page
+  });
 });
 
-app.listen(port, () => console.log(`Hello world app listening on port ${port}!`));
+// create a new users entry
+app.post("/new", urlencodedParser, function(request, response) {
+filename = Date.now()+'.png';
+fs.writeFile(filename, request.body.imageData, {encoding: 'base64'}, function(err) {
+    console.log('File created');
+});
 
 
+  db.insert({ name: request.body.user , image:filename }, function(err, numReplaced, upsert) {
+    response.redirect("/");
+  });
+});
+
+// removes existing users and creates new entries with just the default users
+app.get("/reset", function(request, response) {
+  users = defaultUsers.slice();
+  setup();
+  response.redirect("/");
+});
+
+// Serve the root url: http://expressjs.com/en/starter/basic-routing.html
+app.get("/", function(request, response) {
+  response.sendFile("index.html");
+});
+
+// Listen on port 8080
+var listener = app.listen(8080, function() {
+  console.log("Listening on port " + listener.address().port);
+});
