@@ -1,0 +1,19 @@
+# Opalstack Node.js README
+
+## Controlling your app
+
+Start your app by running:
+
+   /home/iamasq/apps/gd2-a1/start
+
+Stop your app by running:
+
+   /home/iamasq/apps/gd2-a1/stop
+
+## Installing modules
+
+If you want to install Node modules in your app directory:
+
+cd /home/iamasq/apps/gd2-a1
+npm install modulename
+

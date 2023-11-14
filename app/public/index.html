@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>OCADU Graphic Design 2 (2021) — Assignment 1</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+
+        <nav class="add-file">
+
+        <p>CONFOUNDING TOOLS</p>
+        <p>Design a 24" × 36" digital poster about your life under COVID 19 without using software explicitly intended for design.</p>
+
+        <form method="POST" id="uploadImage" action="/upload" name="uploadForm" enctype="multipart/form-data">
+            <div id="uploadMsg"></div>
+            <input type="text" name="student" id="student" placeholder="your name" value=""/>  
+            <select name="instructor">
+                <option value="i">Instructor:</option>
+                <option>David Caterini </option>
+                <option>Chris Lange </option>
+                <option>Zoma T Maduekwe</option>
+                <option>Zachary Pearl </option>
+
+
+                <option>Alex Perlin</option>
+                <option>Ali Qadeer</option>
+            </select>
+            <input type="file" name="image" id="image" accept="image/x-png,image/jpeg" />
+            <p class="small">JPG or PNG. If you're having trouble or need to mod the format, just email:
+                <a href=mailto:aqadeer@.ocadu.ca">aqadeer@.ocadu.ca</a>.
+            </p>
+                <button id="submits" disabled>Upload</button>
+            </form>
+
+
+            <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="crossorigin="anonymous"></script>
+        
+        </nav>
+
+        <section id="entries"></section>
+
+        <div class="cover" id="popout">
+            <div class="close">&times;</div>
+            <div class="interior">                
+                <img class="interior--img">
+                <div class="interior--student"></div>
+                <div class="interior--instructor"></div>
+            </div>
+
+        </div>
+
+        <div class="cover" id="loading">
+            <img class="spinner" src="img/spinner.gif" />
+
+        </div>
+
+        <script src="js/script.js"></script>
+    </body>
+</html>

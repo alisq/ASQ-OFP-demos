@@ -1,0 +1,22 @@
+#!/bin/bash
+PIDFILE="/home/iamasq/apps/gd2-a1/tmp/node.pid"
+
+if [ ! -e "$PIDFILE" ]; then
+    echo "$PIDFILE missing, maybe Node.js is already stopped?"
+    exit 99
+fi
+
+PID=$(cat $PIDFILE)
+
+if [ -e "$PIDFILE" ] && (pgrep -u iamasq | grep -x -f $PIDFILE &> /dev/null); then
+  kill $PID
+  sleep 3
+fi
+
+if [ -e "$PIDFILE" ] && (pgrep -u iamasq | grep -x -f $PIDFILE &> /dev/null); then
+  echo "Node.js did not stop, killing it."
+  sleep 3
+  kill -9 $PID
+fi
+rm -f $PIDFILE
+echo "Stopped."

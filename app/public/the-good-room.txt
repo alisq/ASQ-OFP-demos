@@ -1,0 +1,276 @@
+[https://frankchimero.com/blog/2018/the-good-room/]
+
+The Good Room
+Frank Chimero
+
+This talk was given on February 15, 2018 at Substans Conference in Bergen, Norway.
+
+I’m a designer, but writing is another important part of my practice. Most of what I’ve written focuses on making the case for a cohesive and generous philosophy for how we design technology: it must not only look good and feel good, it must also be good. Today, I’ll be focusing on the other side of how technology gets made. I want to talk about ways to find a clear path through how we use technology and what we expect from it.
+
+This need seems urgent. It has been the central topic of many of my conversations with friends and professional acquaintances for the last year and a half. If you bundle those conversations together, the diagnosis is clear: there is so much convenience, but so little comfort. Everyone is tired. Our attention is over-extended, over-stimulated, and over-commodified, making us twitchy, unfocused, and, in a very crude sense, afraid.
+
+It feels like many of us are in the first stages of untethering, and we can use this situation as an opportunity for reassessment. Blindly chasing after convenience, amusement, and connection wasn’t all it was set up to be, and it certainly didn’t make life any less complicated. We know that digital technology isn’t going anywhere because of its obvious benefits, so the primary question becomes: how do we fix the way technology fits? Is there a way to keep some of the benefits and diminish the damage? What stays? What goes? Why? And how can we begin to change that fit in our own lives?
+
+Let me start by stating something obvious: in the last decade, technology has transformed from a tool that we use to a place where we live. If we’re setting out to change the character of technology in our lives, we’d be wise to learn from the character of places.
+
+Place One
+
+Let’s take a step back in time. In 1886, Samuel Tilden, the wealthy former governor of New York state, died and left a few million dollars for New York City to establish and maintain a free, public library and reading room. This was an astronomical sum in the late 19th century. After hearing about it a couple years later, the industrialist Andrew Carnegie, decided to splash an additional $5 million on to the pile. Happy days for readers, indeed.
+
+The city eventually settled on a site for the new library at 5th Avenue between 40th and 42nd Street. We now know that area as Bryant Park, but back then it was the defunct Croton Reservoir. The library has a line it likes to use these days when it talks about its construction. They say the pool of water was transformed into a pool of knowledge. Perfection.
+<!--
+https://frankchimero.com/images/posts/the-good-room/croton-reservoir.jpg
+
+-->
+By 1911, the library was ready for the public. The building is now considered to be a Beaux-Arts classic—its most famous touches being those two lions that flank the front stairs. One is named Patience; the other is Fortitude. We don’t name things like that any more, do we?
+
+The location is still open today. In fact, many people who visit New York City put the main branch on their sightseeing list. The tourists are not alone: the NYPL is one of the few tourist stops with just as many visiting locals. I love going to the library, and encourage my friends to visit every time I get the chance. At first, they think this is a very uncool recommendation, but they change their minds when I show them the room at the library where I work.
+
+Step into my office, baby. This is the Rose Reading Room. It’s on the top floor of the building. I do a fair amount of my writing here.
+
+For the sake of being meta, here is a picture of me in the room writing this talk. Look at how happy I am. No big, cheap smiles; instead, you’re seeing a deep and genuine gratitude created by the humility and awe that the room inspires. Those ceilings above me are 16 meters high, and you know what they say—high ceilings, lofty thoughts. This is the best room to work from in New York City. It’s a shame you can’t sneak in a bottle of wine.
+
+Here’s a better photo of the murals on the reading room’s ceiling. It’s not quite the Sistine Chapel, but the paintings are a very welcome addition when you’re gazing up, trying to get your arms around a thought.
+
+The main branch of the NYPL is obviously a beautiful and impressive place, but it shares its most important characteristic with any other library location in the city: it is free and open. All that’s required to sit and work in the Rose Reading Room is a quick check of the bags to ensure you’re not smuggling books or wine. Everyone has access to the library, whatever their purpose.
+
+On my last visit, I saw students studying, a retiree reading Shakespeare out of a big leather-bound edition, a family filling out visa applications they printed, and a kid in headphones making beats in Ableton. This is a nice representation of the world as I wish it to be—all creation, appreciation, education, and exploration. The library is what brought them together, and it asks for nothing back. Its purpose is fulfilled by all of us using it. That means, I think, that the library is one of the best places to get a real and generous sense of the city. How does a city wish to be? Look to the library. A library is the gift a city gives to itself.
+
+This all sounds very rosy and pure, but the first visit to the library as an adult can be a little unnerving. It feels like you are doing something wrong by being there. What’s the catch? Is it a trap? How often is nothing expected of us? It is so rare in New York (and in many other places), because our presence is expected to be the start of a transaction. New York City has some of the most expensive real estate in the world, so every square inch must be monetized. That is why it is so special that this big, beautiful building is plopped right in the center of everything. Just a few blocks away from the mania of Times Square, Samuel Tilden’s gift sits waiting for anyone who wants to open it.
+
+I once heard that a library is one of the few remaining places that cares more about you than your wallet. It means that a person can be a person there: not a customer, not a user, not an economic agent, not a pair of eyes to monetize, but a citizen and community-member, a reader and a thinker, a mind and—God, I am going to say it—a soul.
+
+Place Two
+
+Let’s step back in time again. As the city was breaking ground for the library, another large construction job began about 8 blocks away.
+
+The Pennsylvania Railroad Company was building a marquee station for New York City. The city was surprised at the sudden announcement, since the lots for the station’s 12-block footprint were bought in secret. This mixed with a sense of relief, because the station would simplify a complicated train commute into New York.
+
+There were no direct Pennsylvania Railroad trains into New York City at the time; their passengers commuted by rail to Jersey City, then had to board ferries across the Hudson River to enter Manhattan. The Penn Station project aimed to give the railroad a proper home in America’s biggest city by boring a new tunnel under the Hudson River to the west and a second tunnel for the East River to the east, thereby connecting Manhattan to Brooklyn, Long Island, and the mainland.
+
+
+The project was an enormously risky undertaking, and Pennsylvania Railroad’s president Alexander Cassatt knew it. Boring under the silty Hudson River would be a dicey proposition for the safety of the workers and structural integrity of the tunnel. In addition, drilling two tunnels underground and expecting them to meet in the middle carried its own degree of risk if the precision of the operation slipped. And then there was the expense on top of the logistical risks. The total cost of the project ballooned to $114 million, or about $3 billion in today’s dollars. That’s a huge investment for one company to service one city, so Cassatt, understandably, absorbed himself in the fun part of the project: the station.
+
+After studying public spaces in Europe ranging from the Gare d’Orsay train station in Paris to the Baths of Caracalla in Rome, this is what they drew up:
+
+What a magnificent space: airy, light—inspiring in the same way as many of the train stations you find in Europe. America’s premiere city finally had a suitable welcome to those who arrived by rail.
+
+The story has a sad end: Alexander Cassatt died before the construction was completed. He never saw the station open to the public.
+
+Do you know who else has never seen that station? Me. No sentimental stories about my charmed experiences in Penn Station for you. If you’ve been to New York, you know that Penn Station looks nothing like what I’ve just shown you.
+
+Here’s why: after World War II, American families flooded out of the cities and into the suburbs. There, they opted to drive instead of travel by train. Pennsylvania Railroad’s business went bust, and by the ’60s, the company was forced to sell the land and airspace above the underground stops.
+
+In 1963, demolition began on the building, to be replaced by Madison Square Garden. The underground stops were left and are still functional—that’s what you see when you visit the station today. Penn Station went from a building worthy of comparison to Europe’s great feats of architecture to a hole in the ground.
+
+Here is Penn Station today. It’s hard to get a good photo, because there is no light. The station resembles what Kafka would write about if he had the chance to see a derelict shopping mall. He’d have some choice words about the Pizza Hut.
+
+Land Grab
+
+I’ve shared the story of these two buildings for a few reasons. The first is to emphasize the importance of a good room. What kind of thoughts are possible at the library versus the ones that are had in the current Penn Station? Then ask yourself this: if technology is a place where we live, a place that we carry around with us, shouldn’t we choose to be in lively and nourishing digital environments? This reasoning should be enough to encourage you to leave the optional digital places that you don’t enjoy.
+
+Another reason for the comparison is to remind you that we have both commercial and non-commercial elements in our lives. Each has their role, but we shouldn’t misapply commercial approaches to all our needs. Commercial endeavors, even huge ones, are not necessarily more stable than public ones. Look at Penn Station. And private enterprise can’t always provide everything a person requires on good terms. Look at healthcare in America. Life would be miserable if we only spent time in commercial spaces, because not all value can be captured and supported in a commercial context. We all know this, so it is a pity how overfitted and commercialized the internet, our second home, has become.
+
+Commerce can fail us, because money and people sometimes have disagreements about what is valuable. The compatibility between a company’s needs and the public’s needs may only be temporary. This seems to be the case with social media companies, where, right now, what they need and what’s good for society seem to be in conflict. They are wedged between maximizing profits by capturing, retaining, and funneling the majority of the web’s attention, while holding the increasingly forced pose of free speech. Meanwhile, there’s increasing evidence, even from Facebook’s own research, that says social media depresses its users and that automated, algorithmic recommendations of content promotes extremism. A few weeks ago, I watched a video on YouTube about an alternate ending for a Star Wars movie; within two autoplays I was knee-deep in misogynistic conspiracy theory videos. The wrong roads are being paved in an increasingly automated culture that values ease.
+
+Consolidated attention produces fewer targets to exploit. Democracy has suffered in the last few years, because these massive systems haven’t differentiated between serving the needs of advertising and inadvertently serving the needs of propaganda. Targeting helps both. In addition, the citizenship doesn’t bring the right level of skepticism to what they’re delivered through these platforms. Any huge, attention-absorbing, unsupervised commercial space that’s supported by advertising will produce the same opportunity for exploitation. All of this would be a difficult problem for anyone to solve, but I have no sympathy. Why should anything that grows to a billion people be allowed to be privately controlled?
+
+The market research firm Edelman recently published their 2018 Trust Barometer and it contains some bad news for everyone, especially those platforms that serve billions. It says that trust in social media is quickly eroding worldwide, because social and search platforms like Facebook and Google are no longer seen as technology, but as part of an untrusted media institution—and the least trusted part of the media at that. 63% of people say they can’t tell the difference between good journalism and falsehoods. 59% say this processes is becoming more difficult. Even more concerning is that participants expressed the lowest confidence ever recorded in the credibility of “a person like yourself.” We are in a spiral of distrust instigated by our digital environments.
+
+Something must change, and to many of us, it seems that a whole new path is necessary. Can we create one without completely disconnecting? I am here to offer a very loud and exasperated, “I don’t know.”
+
+On the bright side, these transformations and re-imaginings happen more frequently than we think. It’s part of digital technology’s origin story: the web began as military technology co-opted to share scientific knowledge between universities and institutions. The spirit and promise of the early web was captured well by Kevin Kelly, one of the founders of WIRED Magazine, when he wrote: “Out of complete nothingness we were harnessing a virtual commonwealth.”
+
+Kelly is saying that the web is a boundless and shared estate, and we only later learned how to commercialize it. The commercial endeavors that now dominate our digital experience sit on public land, or, should I say, open protocols. (For now, at least. Eliminating net neutrality and selling privileged access to the network is another attempt to turn the public commons into private property.)
+
+The web commercialization project has been the boom of our age, and the commercial yawp has become the dominant tone of our technology. It’s loud out there. We’re exhausted and over-extended, because everything is vying for nearly boundless amounts of our time and attention. Late last year, Netflix CEO Reed Hastings said their biggest competition was sleep. That’s a pretty grim statement, joke or not. Biology is always such a nuisance for business.
+
+As companies scaled, more and more of the web became monetized. Interactivity cleared a path for transactional thinking because of their striking resemblance. (Let’s remember that pay-per-click is the origin of both Google’s and Facebook’s fortunes.) Helpful personal sites and informational hubs have been replaced by content marketing. Even in places where no money changes hands, follows and likes act as representations of worth, just like money. That’s not to say you can’t ask for money, though—even the dogs I follow on Instagram are trying to sell me stuff. No species is safe from salesmanship.
+
+That was a little harsh, wasn’t it? Sorry about that. Though dismal and accurate, what I just offered is an incomplete picture of the web. Remember: the web is a marketplace and a commonwealth, so we have both commerce and culture; it’s just that the non-commercial bits of the web get more difficult to see in comparison to the outsized presence of the commercial web and all that caters to it. It’s a visibility problem that’s an inadvertent consequence of values. The commercial parts become more self-contained and link inside themselves to keep you around—after a while, you’re looping around their cul-de-sac because attention is money on the web. Non-commercial sites link out and will let you go, which immediately puts them at a disadvantage for mindshare.
+
+Facebook, Google, Apple, and Amazon aren’t going anywhere at this point—nor should we expect them to—so it’s best to recalibrate the digital experience by increasing the footprint and mindshare of the kinds of cultural and communal value they can’t provide. The web isn’t like Manhattan real estate—if we want something, we can make space for it.
+
+Different measuring sticks are also in order. If commercial networks on the web measure success by reach and profit, cultural endeavors need to see their successes in terms of resonance and significance. This is the new game, one that elevates both the people who make the work and those who see, use, and enjoy it.
+
+Choice and will
+
+The digital landscape has an influence on our lives, but we are more directly affected by our personal choices. We must fend for ourselves, whether or not the technology industry chooses to deal with the implications of their work.
+
+Earlier, I said that I felt unfocused and twitchy—too much time in fast-paced places that see me as a bundle of nerves with a wallet, and not enough time in slower, more nourishing places, like the library. The solution seems simple: spend less time in the bad places and more time in the good places!
+
+Okay, but not so fast. First, that’s easier to say than to do. Second, there are no practical steps in there. What are other people doing?
+
+Immunization
+
+Reading a book on paper is a simple, easy step to regain some composure and inoculate yourself against hysterics. That’s it, that’s the whole tip. Books are medicine. This suggestion, of course, is coming from the guy who just spilled a few hundred words on the greatness of libraries. My bias is showing, but follow me here.
+
+A book is useful because it is entertaining and naturally offsets the time you would spend staring into your phone; it’s portable and a great sleep aide. It re-calibrates your expectations for rewards, and properly shames us all by showing us how much our attentions have atrophied. That focus improves with practice, but it will take time. Before, we were scrolling through Instagram reading screenshots of tweets. We have to work our way up to Dostoevsky, you know?
+
+Most importantly, reading a book is active, unlike most of the passive consumption we do in front of screens. I think a lot of the anxiety we can feel from technology comes from that passive relationship alongside its speed. Look at cable news or your social media feeds. All day long, we’re having absurd novelty, enviable affluence, and sincere tragedy and distress sandwiched together and railgunned into our face. A book offers some necessary composure and consistency to help find our bearings in a world oriented toward violent delivery.
+
+A day eventually comes along when a reader’s head clicks back into place. It’s like something important was realigned and you remembered how to carry yourself, similar to how it feels after having your back popped. There are other ways to achieve this, but reading is my preferred method, and maybe by talking about books, I can help you discover a counter-balancing activity that works for you. These benefits can come from any slow, focused, and deep practice. More on beneficial practices in a moment.
+
+Abstinence
+
+A drastic step I’ve seen is called “digital detox.” It’s sort of like a destination cleanse diet: you go off to the woods outside San Francisco, for instance, and give them your phone, laptop, and any other digital paraphernalia. The purpose of the trip is to disabuse yourself of your screen addiction by staying away from all screens and media for a week. Mysterious things happen at undisclosed locations, then attendees return home pure, with a slightly worrying glint of rapture in their eyes.
+
+I haven’t done this, but I would like to try, if only to recalibrate my brain’s expectations for dopamine. Perhaps the experience would be similar to when I return to the States after a trip overseas: my tastebuds have adapted, and all American food (even the very nice stuff) tastes too sweet and salty.
+
+Full digital immersion after digital abstinence seems like a difficult plunge. Attendees are dropped back into the environment that produced their problem, though, hopefully, with better skills and tools to manage it. These new strategies, however, might presume a degree of autonomy that may not be available. Most of us are not lucky enough to have much choice in where our social lives happen or what sort of technology we use at our jobs. Many will return from their detox trips, revisit these places, and get a bad taste in their mouth. Perhaps that distaste is precisely what’s needed to create technological change. Time will tell.
+
+Regulation
+
+Most of us can’t control our whole technological situation, so it’s been fascinating for me to see how people shape it in the one place where they have the most influence: raising their children. I don’t have kids, so it’s been especially interesting hearing the different standards my friends have set up. Some are laissez-faire with their kids’ use of technology, others set up extremely regimented schedules and sets of rules about what is allowed when and where. Other times things are bonkers enough to sound like a psychological experiment: a friend of mine is raising his kid exclusively on Sesame Street clips from his childhood. We’ll see how long that lasts.
+
+I have no right to judgements about this, but the situation has shown me that we also create these sets of rules for ourselves—it’s just that the ones created for our kids are more evident because they are a mindful construction. The decisions for ourselves are instinctual and individualistic, so there’s usually not a cohesive philosophy behind our personal standards. It’s easy to see how scattered we can be when it’s all spelled out.
+
+My technological profile makes it seem like I skipped the 20th century, and it’s not just because I live in a New York City apartment without air conditioning. Let me tell you about my setup:
+
+<!--this seems like a list, doesn't it?-->
+Yes to electricity.
+
+No to microwaves.
+
+Yes to high-speed internet.
+
+No to cable television.
+
+Yes to books.
+
+No to magazines (with obvious exceptions).
+
+Yes to movies.
+
+No to TV.
+
+Yes to Instagram.
+
+No to Facebook.
+
+No to Snapchat.
+
+Increasingly, no to Twitter.
+
+Yes to iPads.
+
+No to Netflix.
+
+Yes to new iPhones.
+
+No to doing anything new with them.
+
+Yes to Amazon Prime.
+
+No to the creepy wiretap speakers they sell.
+
+Of course my standards are wildly inconsistent and sometimes completely contradictory. So, I hope all of this sounds as weird to you as other people’s setups sound strange to me. For instance: most of my friends who own an Amazon Echo also put tape over the cameras on their laptops. Why bother if you’re going to sit next to a microphone that listens to you all day? The mind is a funny place.
+
+Outside standards always seem to take on this unusual appearance, and in America, the Amish have the most prominent outside attitude to technology. The Amish are a group of religious communities located mostly in the eastern United States, primarily in Pennsylvania, Ohio, and Indiana.
+
+They’re typically seen as anti-technological. Similar to my leapfrogging the 20th century, the Amish are slightly out of time and have mostly stuck to 19th-century technologies. Most notably, they still drive horse and buggy.
+
+
+Nearly all of my knowledge about the Amish’s relationship to technology comes from Kevin Kelly. Remember him? He’s the guy I previously quoted about the early web: “Out of complete nothingness we were harnessing a virtual commonwealth.”
+
+But that’s not the whole quote. He goes on to say: “And the internet came along and it seemed almost Amish.”
+
+How can the internet, something so obviously technological, seem to be Amish, a set of people resiliently holding out against technology?
+
+It comes down to the idea of the web as a commonwealth. The Amish are not anti-technology. It’s more accurate to say they are only interested in adopting technologies which meet their community-focused criteria. While you or I make individual choices for what technologies we adopt and feel our way through the choice, the Amish collectively make these decisions, so their criteria must be much more clear.
+
+They have two collective standards. First: will it strengthen the family? Second: will it strengthen the community? So when Kelly said that the early web felt Amish, he meant that the digital space they were creating felt like an open, communal space filled with strong bonds.
+
+How do the Amish apply these criteria? In some pretty interesting ways. I’d argue that they are only slightly more strange or arbitrary than our own choices once you know their reasons.
+
+The Amish say yes to traveling by horse. Skateboards and rollerblades are also allowed, but bicycles and cars are not. Why is that? You can stray too far from home with a car or bike. Horses are accepted, because they can only travel about 30 miles a day. Going by horse keeps you close to your family and tied to your community. You shop locally, attend church locally, and so on. According to the Amish, the choice of transportation method can either strengthen or weaken a sense of family and community.
+
+This all sounds very sensible in intent, if a bit extreme in execution. Still, I’d love to hear the rationale behind some of their other choices. Disposable diapers are allowed, I think for obvious reasons, but zippers are still condemned in most communities. Chainsaws are fine, but velcro is taboo. It is all so strange, but perhaps no stranger than my enjoyment of Instagram and disdain of Facebook.
+
+Aside from the occasional foreign standard, the Amish know what we are having to re-learn: technology’s influence is not a problem to solve through dominance; it’s a situation to navigate through clear goals and critical thinking. Attentiveness is key. Technological adoption can’t be on auto-complete.
+
+Vaguely stated needs lead to bad decisions, so saying you want convenience, amusement, or productivity from technology isn’t enough. Convenience to invest the time where? Productive to what end? Everything we take in comes at the cost of something else, so it’s best to think it through and be sure it is a good deal. There are now so few benefits to early adoption.
+
+The Amish lesson is that what you let in will eventually form you. We both make technology and are made by it. That paradox is uncomfortable for many people, but it must be honored. And there is hope in the situation: as any Eastern or Western spiritual mystic will tell you, a paradox is a sign that you are at the heart of the truth.
+
+Space for Soul
+
+Here’s another quote from Kevin Kelly: “What’s missing is the spiritual meaning of technology.”
+
+If technology is increasingly a place where we live, it needs to have space for the soul, like how the library makes room for a healthy, elevated mindset while the current Penn Station inspires despair. Beauty is an important element, but purpose also matters. I think this is what Kelly is hinting at. Using technology for commerce, efficiency, and ease are not enough of a higher purpose for something that dominates a great part of our lives. The heart demands a bigger dream.
+
+What is it all for? What can we imagine? These questions become critical as we find ourselves in a time where we are confronted with questions about identity, self-worth, community, and citizenship in this connected world. If technology is not only for profit and ease, what is it for? We must use our soulful imaginations and be specific.
+
+Most of our dream worlds are dystopias. One reason for this is that we feel technology is only producing commercial possibilities while neglecting or distorting the other essential parts of us. It’s not being very library-like. People have an easier time imagining how technology’s influence can go wrong. Our imaginations have a negative flair, and it’s always been this way.
+
+Take a look at any medieval altarpiece that depicts heaven and hell.
+
+This is the divine reward?
+
+
+The only ones in heaven who have the opportunity for a good time are the angels jamming on lutes and trumpets at the gates. But it doesn’t seem like a very celebratory welcome committee. Maybe Prince is up there whipping everyone into shape?
+
+Our minds can be gruesomely specific about our fears, but can only make vague, imprecise gestures at our desires through broad words like love, happiness, or contentedness. But these words provide no insight on how to actually achieve any of it or what form it takes. At least advertising is specific about what will make us happy. Perhaps that’s why we trust it, even though we know we shouldn’t.
+
+Let’s go back to Kelly’s quote. Spiritual technology is such a captivating phrase. It seems to open up possibilities instead of closing them down, and can help us ask more incisive questions about what we want to happen up there in the clouds. What does the good life look like, and if we use technology to help us get there, what form should it take? What’s the dream again?
+
+I started thinking about what could be considered spiritual technology in a secular sense to help me decide what technology stays and what goes from my life. A few examples came to mind, ranging from small acts like lighting a candle to larger practices like yoga or meditation. The obvious deficiency was that nothing I identified involved screens, which is a bit problematic if you’re searching for ways to add some soul to technology.
+
+That’s why I was pleased to find the app ratings survey by the Center for Humane Technology. The survey tracked how much time the 200,000 participants spent in each app on their phone, then asked them if they were happy with that time or if they regretted it.
+
+Let’s start with the apps people regret: Grindr, Candy Crush, Facebook, Reddit, Twitter, Tinder, Instagram, Snapchat—generally the apps we resort to out of boredom, desperation, or loneliness. It’s shocking to me that the durations average between 40 minutes to over an hour per day for each app. That’s downright crazy. People are also very regretful of the time spent. It seems these places make our boredom, desperation, or loneliness worse.
+
+
+Now let’s look at the apps where the participants were pleased with themselves: Calm, Headspace, Insight Timer are three of the top four, and all are apps that help you meditate. I’ll repeat: three out of the top four could be considered spiritual technology. The other two in the top five are a calendar app and the weather, which, at this point, might as well be the digital air we breath.
+
+
+A majority of the remaining apps provide art: Spotify, Kindle, Audible, Amazon Music, Podcasts. And look at the average usage: it tops out at 26 minutes of reading or 20 minutes of meditating, but most times are 10 minutes or less. I find it absolutely fascinating that there are no social or communication apps on this “Most Happy” list. Every app either points inward through personal practice, organization, and art, or points outward to help us navigate the world. It seems our alone time with technology should truly be alone time, and that halfway socializing is a source of disappointment, not pleasure.
+
+The survey provides some clear guidance on forming new technology and making decisions about what we should keep around. There is enough entertainment and connection without intimacy out there, so spiritual technology must take a different path and be a gateway to induce a state of well-being. These tools are about teaching and reinforcing methods, and acknowledge that a primary source of happiness is not convenience, but empowerment.
+
+I started to find other examples of what could be considered spiritual technology. Across the board, they were programs for people instead of programs for computers. The software was merely an assistive device to help people more easily follow the program. It was technology in its best role: as a sidekick for personal application.
+
+Couch to 5K
+
+One example is Couch to 5K, a beginner’s program for running. It began as a written routine to follow for a couple months, then some industrious developers came along and wrote apps to help schedule and track your runs. I did a quick search on the app store to check how many apps may be out there, but I lost track at about 20.
+
+The New York Times H.I.I.T. Workout
+
+n a similar vein, the New York Times published their high-impact, seven-minute workout a few years ago, and shortly after, many apps showed up to help people along.
+
+Guided Meditation
+
+And, of course, there are all the apps for guided meditation shown in the survey above. Meditation (along with reading) has turned into one of my daily non-negotiable activities, and my commitment is thanks to some careful prodding by app notifications.
+
+And others…
+
+The examples need not only be about health: for instance, consider the glut of productivity apps that follow David Allen’s Getting Things Done methodology. I’m sure there are many other examples.
+
+One of my favorites has been new research from my friend Simon Collison. He’s focusing on what he calls “The Internet of Natural Things”, meaning ways to use technology to enhance and deepen our connection to the natural world. All of his recommendations have been wonderful. They range from the expected, like the app iNaturalist to help you identify trees and flowers, bugs and other critters. Others are more odd and imaginative, like his recommendation of a bat detector. It’s called the Echo Meter Touch, and it plugs into your phone to transform ultrasonic bat calls into audio you can hear. Yes, it’s a real batphone. No matter what the technology, the goal is to cater to our most primary spiritual need: to embody ourselves in the landscape, illuminate our awareness of what is around us, and to encourage us along in the daily practice of discovering our place in the family of life.
+
+It’s interesting to note that many of these apps are corporeal. Contrary to intuition, the way to better technology is through the body, because we do not leave our body behind when we log on. We may be striving to create a nourishing digital condition for ourselves, but it will always be informed by what’s happening on the ground. The place of technology in our lives begins and ends with the place where we find ourselves.
+
+Which brings me back to my seat at the library. It was a Tuesday afternoon, cold and quiet, the day wrapped up in that winter sun which gives the sharpest light.
+
+I thought about how to fill out that vague painting of heaven, asking what we want, what we need. What could be up there in those clouds? My dream wasn’t hard to find. It was all around me: a comfortable, lofty, and shared space where everything is borrowed, always circulating. This is a good room for all of us.
+
+There’s the student engaged in her studies, the retiree finally getting to what he has put off for far too long, the family vibrating with anticipation for their trip, the kid in headphones absorbed in making the song he’s about to give to the world. Then there’s me, wondering if this place means as much to them as it does to me. What’s it worth? The money only matters so you can get to this way of being: to have the time, find the opening, get the chance to only be. It takes something to get here, and yet it doesn’t. We all walked right in. I was happy enough to sit and appreciate it all. Maybe that painting of heaven was right—nothing else was necessary.
+
+I only wrote three sentences on the day I took the photo.
+
+<!--this seems like a numbered list, doesn't it?-->
+
+Everyone is looking for help.
+Modest needs should be lavishly met.
+Be grateful for every chance to do something right.
+Could this dream be big enough?
+
+The imaginative hell parable was shamelessly taken from Alan Watts. For more on Kevin Kelly, I recommend his books and this interview. Visit the NYPL’s website to learn more about them, and if you live in New York, click here to get your library card. Do not go to the Pizza Hut in Penn Station. You have been warned.
+
+<!--
+
+I can't find a video of this talk but I found another of Frank's
+
+https://www.youtube.com/watch?v=S7AXRKyo6dE&ab_channel=Build
+
+-->
